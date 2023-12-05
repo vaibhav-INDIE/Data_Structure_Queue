@@ -4,7 +4,7 @@
 Implementation of Queue Data Structure in C using Arrays.
 
 
-##Creation of Structure
+## Creation of Structure
 
 
     struct queue{
